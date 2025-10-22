@@ -1,22 +1,32 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Catecismo da Igreja Católica</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <h1>Catecismo da Igreja Católica</h1>
 
   <div class="form-group">
-    <label for="busca">Número do parágrafo:</label>
-    <input type="number" id="busca" placeholder="Ex: 500">
+    <label for="busca">🔢 Buscar parágrafo único:</label>
+    <input type="number" id="busca" placeholder="Ex: 501" />
     <button onclick="buscar()">🔍 Buscar</button>
   </div>
 
   <div class="form-group">
-    <label for="voz">Voz:</label>
+    <label>📚 Buscar intervalo de parágrafos:</label>
+    <div style="display: flex; gap: 8px;">
+      <input type="number" id="inicio" placeholder="Início (ex: 500)" />
+      <input type="number" id="fim" placeholder="Fim (ex: 505)" />
+    </div>
+    <button onclick="buscarIntervalo()">📖 Mostrar intervalo</button>
+  </div>
+
+  <div class="form-group">
+    <label for="voz">🗣️ Voz:</label>
     <select id="voz" onchange="atualizarVoz(this.value)">
       <option value="pt-BR-Chirp3-HD-Algieba">Masculina Algieba</option>
       <option value="pt-BR-Chirp3-HD-Achird">Masculina Achird</option>
@@ -26,8 +36,8 @@
   </div>
 
   <div class="form-group">
-    <label id="velocidadeLabel">Velocidade: 100%</label>
-    <input type="range" min="0.5" max="1.5" step="0.05" value="1.0" onchange="atualizarVelocidade(this.value)">
+    <label id="velocidadeLabel">🚀 Velocidade: 100%</label>
+    <input type="range" min="0.5" max="1.5" step="0.05" value="1.0" onchange="atualizarVelocidade(this.value)" />
   </div>
 
   <div id="resultados"></div>
