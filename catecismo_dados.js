@@ -1,3 +1,4 @@
+const catecismoDados =
 [
   {
     "numero": "1",
@@ -769,7 +770,7 @@
   },
   {
     "numero": "192",
-    "texto": "Foram numerosas, ao longo dos séculos, e correspondendo sempre às necessidades das diferentes épocas, as profissões ou símbolos da fé: os símbolos das diferentes Igrejas apostólicas e antigas , o símbolo «Quicumque», chamado de Santo Atanásio , as profissões de fé de certos concílios ; Latrão : Lião Trento ) ou de certos papas, como a «Fides Damasi» ou o «Credo do Povo de Deus», de Paulo VI ."
+    "texto": "Foram numerosas, ao longo dos séculos, e correspondendo sempre às necessidades das diferentes épocas, as profissões ou símbolos da fé: os símbolos das diferentes Igrejas apostólicas e antigas , o símbolo «Quicumque», chamado de Santo Atanásio , as profissões de fé de certos concílios ; Latrão : Lião Trento ou de certos papas, como a «Fides Damasi» ou o «Credo do Povo de Deus», de Paulo VI ."
   },
   {
     "numero": "193",
@@ -929,7 +930,7 @@
   },
   {
     "numero": "232",
-    "texto": "Os cristãos são baptizados «em nome do Pai e do Filho e do Espírito Santo» . Antes disso, eles respondem «Creio» à tríplice pergunta com que são interpelados a confessar a sua fé no Pai, no Filho e no Espírito Santo: «Fides omnium christianorum in Trinitate consistit – A fé de todos os cristãos assenta na Trindade») ."
+    "texto": "Os cristãos são baptizados «em nome do Pai e do Filho e do Espírito Santo» . Antes disso, eles respondem «Creio» à tríplice pergunta com que são interpelados a confessar a sua fé no Pai, no Filho e no Espírito Santo: «Fides omnium christianorum in Trinitate consistit – A fé de todos os cristãos assenta na Trindade» ."
   },
   {
     "numero": "233",
@@ -989,7 +990,7 @@
   },
   {
     "numero": "247",
-    "texto": "A afirmação do Filioque não figurava no Símbolo de Constantinopla de 381. Mas, com base numa antiga tradição latina e alexandrina, o Papa São Leão já a tinha confessado dogmaticamente em 447 , mesmo antes de Roma ter conhecido e recebido o Símbolo de 381 no Concílio de Calcedónia, em 451). O uso desta fórmula no Credo foi sendo, pouco a pouco, admitido na liturgia latina . A introdução do Filioque no Símbolo Niceno-Constantinopolitano pela liturgia latina constitui, ainda hoje, no entanto, um diferendo com as igrejas ortodoxas."
+    "texto": "A afirmação do Filioque não figurava no Símbolo de Constantinopla de 381. Mas, com base numa antiga tradição latina e alexandrina, o Papa São Leão já a tinha confessado dogmaticamente em 447 , mesmo antes de Roma ter conhecido e recebido o Símbolo de 381 no Concílio de Calcedónia, em 451. O uso desta fórmula no Credo foi sendo, pouco a pouco, admitido na liturgia latina . A introdução do Filioque no Símbolo Niceno-Constantinopolitano pela liturgia latina constitui, ainda hoje, no entanto, um diferendo com as igrejas ortodoxas."
   },
   {
     "numero": "248",
@@ -1941,7 +1942,7 @@
   },
   {
     "numero": "486",
-    "texto": "Tendo sido concebido como homem no seio da Virgem Maria, o Filho único do Pai é «Cristo», isto é, ungido pelo Espírito Santo , desde o princípio da sua existência humana, embora a sua manifestação só se venha a fazer progressivamente: aos pastores , aos magos 126), a João Baptista , aos discípulos . Toda a vida de Jesus Cristo manifestará, portanto, «como Deus O ungiu com o Espírito Santo e o poder» ."
+    "texto": "Tendo sido concebido como homem no seio da Virgem Maria, o Filho único do Pai é «Cristo», isto é, ungido pelo Espírito Santo , desde o princípio da sua existência humana, embora a sua manifestação só se venha a fazer progressivamente: aos pastores , aos magos 126, a João Baptista , aos discípulos . Toda a vida de Jesus Cristo manifestará, portanto, «como Deus O ungiu com o Espírito Santo e o poder» ."
   },
   {
     "numero": "487",
@@ -2293,7 +2294,7 @@
   },
   {
     "numero": "575",
-    "texto": "Muitas atitudes e palavras de Jesus foram, portanto, «sinal de contradição» para as autoridades religiosas de Jerusalém, a quem o Evangelho de São João muitas vezes chama simplesmente «os Judeus» , mais ainda do que para o comum do Povo de Deus . Sem dúvida que as suas relações com os fariseus não foram unicamente polémicas: são fariseus que O previnem do perigo que corre . Jesus louva alguns de entre eles, como o escriba de Mc 12, 34, e em várias ocasiões come em casa de fariseus . Jesus confirma doutrinas partilhadas por esta elite religiosa do povo de Deus: a ressurreição dos mortos formas de piedade ) e o hábito de se dirigir a Deus como Pai, o carácter central do mandamento do amor de Deus e do próximo ."
+    "texto": "Muitas atitudes e palavras de Jesus foram, portanto, «sinal de contradição» para as autoridades religiosas de Jerusalém, a quem o Evangelho de São João muitas vezes chama simplesmente «os Judeus» , mais ainda do que para o comum do Povo de Deus . Sem dúvida que as suas relações com os fariseus não foram unicamente polémicas: são fariseus que O previnem do perigo que corre . Jesus louva alguns de entre eles, como o escriba de Mc 12, 34, e em várias ocasiões come em casa de fariseus . Jesus confirma doutrinas partilhadas por esta elite religiosa do povo de Deus: a ressurreição dos mortos formas de piedade  e o hábito de se dirigir a Deus como Pai, o carácter central do mandamento do amor de Deus e do próximo ."
   },
   {
     "numero": "576",
@@ -2589,7 +2590,7 @@
   },
   {
     "numero": "649",
-    "texto": "Quanto ao Filho, Ele opera a sua própria ressurreição em virtude do seu poder divino. Jesus anuncia que o Filho do Homem deverá sofrer muito, e depois ressuscitar ). Aliás, é d'Ele esta afirmação explícita: «Eu dou a minha vida para retomá-la [...] Tenho o poder de a dar e o poder de a retomar» . «Nós cremos que Jesus morreu e depois ressuscitou» ."
+    "texto": "Quanto ao Filho, Ele opera a sua própria ressurreição em virtude do seu poder divino. Jesus anuncia que o Filho do Homem deverá sofrer muito, e depois ressuscitar . Aliás, é d'Ele esta afirmação explícita: «Eu dou a minha vida para retomá-la [...] Tenho o poder de a dar e o poder de a retomar» . «Nós cremos que Jesus morreu e depois ressuscitou» ."
   },
   {
     "numero": "650",
@@ -2797,7 +2798,7 @@
   },
   {
     "numero": "701",
-    "texto": "A pomba. No final do dilúvio , a pomba solta por Noé regressa com um ramo verde de oliveira no bico, sinal de que a terra é outra vez habitável /48). Quando Cristo sobe das águas do seu baptismo, o Espírito Santo, sob a forma duma pomba, desce e paira sobre Ele . O Espírito desce e repousa no coração purificado dos baptizados. Em certas igrejas, a sagrada Reserva eucarística é conservada num relicário metálico em forma de pomba suspenso sobre o altar. O símbolo da pomba para significar o Espírito Santo é tradicional na iconografia cristã."
+    "texto": "A pomba. No final do dilúvio , a pomba solta por Noé regressa com um ramo verde de oliveira no bico, sinal de que a terra é outra vez habitável /48. Quando Cristo sobe das águas do seu baptismo, o Espírito Santo, sob a forma duma pomba, desce e paira sobre Ele . O Espírito desce e repousa no coração purificado dos baptizados. Em certas igrejas, a sagrada Reserva eucarística é conservada num relicário metálico em forma de pomba suspenso sobre o altar. O símbolo da pomba para significar o Espírito Santo é tradicional na iconografia cristã."
   },
   {
     "numero": "702",
@@ -6065,7 +6066,7 @@
   },
   {
     "numero": "1523",
-    "texto": "Uma preparação para a última passagem. Se o sacramento da Unção dos Enfermos é concedido a todos os que sofrem de doenças e enfermidades graves, com mais forte razão o é aos que estão prestes a deixar esta vida ): de modo que também foi chamado «sacramentum exeuntium – sacramento dos que partem» . A Unção dos Enfermos completa a nossa conformação com a morte e ressurreição de Cristo, tal como o Baptismo a tinha começado. Leva à perfeição as unções santas que marcam toda a vida cristã: a do Baptismo selara em nós a vida nova: a da Confirmação robustecera-nos para o combate desta vida; esta última unção mune o fim da nossa vida terrena como que de um sólido escudo em vista das últimas batalhas, antes da entrada na Casa do Pai ."
+    "texto": "Uma preparação para a última passagem. Se o sacramento da Unção dos Enfermos é concedido a todos os que sofrem de doenças e enfermidades graves, com mais forte razão o é aos que estão prestes a deixar esta vida : de modo que também foi chamado «sacramentum exeuntium – sacramento dos que partem» . A Unção dos Enfermos completa a nossa conformação com a morte e ressurreição de Cristo, tal como o Baptismo a tinha começado. Leva à perfeição as unções santas que marcam toda a vida cristã: a do Baptismo selara em nós a vida nova: a da Confirmação robustecera-nos para o combate desta vida; esta última unção mune o fim da nossa vida terrena como que de um sólido escudo em vista das últimas batalhas, antes da entrada na Casa do Pai ."
   },
   {
     "numero": "1524",
@@ -6317,7 +6318,7 @@
   },
   {
     "numero": "1586",
-    "texto": "Para o bispo, é, em primeiro lugar, uma graça de fortaleza ): a graça de guiar e defender, com força e prudência, a sua Igreja, como pai e pastor, com amor desinteressado para com todos e uma predilecção pelos pobres, os enfermos e os necessitados . Esta graça impele-o a anunciar o Evangelho a todos, a ser o modelo do seu rebanho, a ir adiante dele no caminho da santificação, identificando-se na Eucaristia com Cristo sacerdote e vítima, sem recear dar a vida pelas suas ovelhas:"
+    "texto": "Para o bispo, é, em primeiro lugar, uma graça de fortaleza : a graça de guiar e defender, com força e prudência, a sua Igreja, como pai e pastor, com amor desinteressado para com todos e uma predilecção pelos pobres, os enfermos e os necessitados . Esta graça impele-o a anunciar o Evangelho a todos, a ser o modelo do seu rebanho, a ir adiante dele no caminho da santificação, identificando-se na Eucaristia com Cristo sacerdote e vítima, sem recear dar a vida pelas suas ovelhas:"
   },
   {
     "numero": "1587",
@@ -6981,7 +6982,7 @@
   },
   {
     "numero": "1753",
-    "texto": "Uma intenção boa não torna bom nem justo um comportamento em si mesmo desordenado . O fim não justifica os meios. Assim, não se pode justificar a condenação dum inocente como meio legítimo para salvar o povo. Pelo contrário, uma intenção má acrescentada torna mau um acto que, em si, pode ser bom )."
+    "texto": "Uma intenção boa não torna bom nem justo um comportamento em si mesmo desordenado . O fim não justifica os meios. Assim, não se pode justificar a condenação dum inocente como meio legítimo para salvar o povo. Pelo contrário, uma intenção má acrescentada torna mau um acto que, em si, pode ser bom ."
   },
   {
     "numero": "1754",
@@ -10401,7 +10402,7 @@
   },
   {
     "numero": "2616",
-    "texto": "A oração a Jesus já foi sendo atendida por Ele durante o seu ministério, mediante os sinais que antecipam o poder da sua morte e ressurreição: Jesus atende a oração da fé expressa em palavras , de Jairo , da cananeia , do bom ladrão ) ou feita em silêncio , da hemorroíssa que Lhe tocou na veste , as lágrimas e o perfume da pecadora ). A súplica premente dos cegos: «Filho de David, tem piedade de nós!» , ou «Jesus, filho de David, tem piedade de mim!» , foi retomada na tradição da Oração a Jesus: «Jesus Cristo, Filho de Deus, Senhor, tem piedade de mim, pecador!». Seja a cura das doenças ou o perdão dos pecados, Jesus responde sempre à oração de quem Lhe implora com fé: «Vai em paz, a tua fé te salvou»."
+    "texto": "A oração a Jesus já foi sendo atendida por Ele durante o seu ministério, mediante os sinais que antecipam o poder da sua morte e ressurreição: Jesus atende a oração da fé expressa em palavras , de Jairo , da cananeia , do bom ladrão  ou feita em silêncio , da hemorroíssa que Lhe tocou na veste , as lágrimas e o perfume da pecadora . A súplica premente dos cegos: «Filho de David, tem piedade de nós!» , ou «Jesus, filho de David, tem piedade de mim!» , foi retomada na tradição da Oração a Jesus: «Jesus Cristo, Filho de Deus, Senhor, tem piedade de mim, pecador!». Seja a cura das doenças ou o perdão dos pecados, Jesus responde sempre à oração de quem Lhe implora com fé: «Vai em paz, a tua fé te salvou»."
   },
   {
     "numero": "2617",
@@ -11399,4 +11400,4 @@
     "numero": "2865",
     "texto": "Pelo «Ámen» final, exprimimos o nosso «fiat» em relação às sete petições: «Assim seja...»."
   }
-]
+];

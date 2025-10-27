@@ -62,6 +62,7 @@ button:hover {
   margin: 16px 0;
   border-radius: 10px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease; /* Adiciona transição suave */
 }
 
 .numero {
@@ -78,6 +79,14 @@ button:hover {
   gap: 12px;
   margin-top: 16px;
 }
+
+/* NOVO ESTILO ADICIONADO PARA O DESTAQUE */
+.paragrafo.lendo-agora {
+  background-color: #fff9e6; /* Um fundo amarelo-claro */
+  border-left: 4px solid #007bff; /* Uma borda azul à esquerda */
+  padding-left: 12px; /* Ajusta o padding para compensar a borda */
+}
+/* FIM DO NOVO ESTILO */
 
 @media screen and (min-width: 600px) {
   .button-column {
