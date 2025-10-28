@@ -208,7 +208,7 @@ function lerTexto(texto) {
   };
 
   // URL do seu servidor backend
-  const backendUrl = 'http://localhost:3000/synthesize';
+  const backendUrl = 'https://meu-proxy-tts.onrender.com/synthesize';
 
   console.log("Enviando texto para backend:", backendUrl, bodyParaBackend); 
 
